@@ -1,20 +1,34 @@
 {
-	"color_scheme": "Packages/Theme - Arc/Arc Darker.tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"drag_text": false,
 	"font_face": "Cascadia Code",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"margin": 0,
 	"material_theme_accent_acid-lime": true,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_bold_tab": true,
 	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
+	"material_theme_disable_fileicons": false,
+	"material_theme_disable_folder_animation": false,
+	"material_theme_disable_tree_indicator": false,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
+	"overlay_scroll_bars": "enabled",
 	"theme": "Cobalt2.sublime-theme"
 }

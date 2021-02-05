@@ -5,24 +5,28 @@
 	],
 	"installed_packages":
 	[
-		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
 		"AdvancedNewFile",
 		"AutoAligner",
 		"C Improved",
 		"C++ & C Single File Builder - Minghang Yang",
 		"C++ Snippets",
 		"C11",
-		"ChineseLoremIpsum",
 		"ColorPicker",
 		"CPP Competitive Programming Snippets",
+		"CppFastOlympicCoding",
+		"CSS3",
+		"Emmet",
+		"HTML5",
+		"LiveReload",
 		"LoremIpsum",
 		"Markdown HTML Preview",
+		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
 		"Terminal",
-		"Terminality",
-		"Theme - Arc",
+		"Terminus",
 		"Theme - Cobalt2"
 	]
 }
