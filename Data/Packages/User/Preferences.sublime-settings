@@ -5,10 +5,10 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
 	"drag_text": false,
 	"font_face": "Cascadia Code",
-	"font_size": 12,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -30,5 +30,5 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Cobalt2.sublime-theme"
+	"theme": "OneDarkMaterial.sublime-theme"
 }

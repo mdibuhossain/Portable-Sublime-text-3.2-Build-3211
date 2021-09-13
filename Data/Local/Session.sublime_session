@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/H/Watched_Movie_List",
+		"/H/Codes/Project",
 		"/E/programming practice/C++",
 		"/D/Online Judge Problems/Codeforces (ibrahim_065)",
 		"/D/c programin/DimikOJ",
@@ -27,7 +29,7 @@
 		"/E/c programin/CSE_Assignment_BSMRSTU/LAB-06/19CSE065"
 	],
 	"last_version": 3211,
-	"last_window_id": 104,
+	"last_window_id": 108,
 	"log_indexing": false,
 	"settings":
 	{
@@ -263,6 +265,38 @@
 				"selected_items":
 				[
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
 						"fast",
 						"FastOlympicCoding: Open Settings"
 					],
@@ -277,10 +311,6 @@
 					[
 						"termna",
 						"Terminal: Open"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"rmeove",
@@ -307,10 +337,6 @@
 						"UI: Select Color Scheme"
 					],
 					[
-						"theme",
-						"UI: Select Theme"
-					],
-					[
 						"material",
 						"Material Theme: Activate theme"
 					],
@@ -327,10 +353,6 @@
 						"LiveReload: Self test"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"ma",
 						"Material Theme: Activate theme"
 					],
@@ -341,10 +363,6 @@
 					[
 						"material theme",
 						"Material Theme: Configuration"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"list",
@@ -403,9 +421,13 @@
 			},
 			"console":
 			{
-				"height": 490.0,
+				"height": 401.0,
 				"history":
 				[
+					"exit",
+					"python",
+					"clear()",
+					"clear",
 					"exit",
 					"exit()",
 					"dir(str)",
@@ -435,6 +457,10 @@
 			},
 			"file_history":
 			[
+				"/H/Codes/Project/test.c",
+				"/H/Codes/Project/person.txt",
+				"/H/Codes/Project/clock.c",
+				"/E/programming practice/C++/test.c",
 				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1476A.cpp",
 				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1478A.cpp",
 				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.cpp",
@@ -558,15 +584,11 @@
 				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/output7.txt",
 				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-07/19CSE065/4.c",
 				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-07/19CSE065/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/dest.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/source.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/source2.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/source3.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/output.txt"
+				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/dest.txt"
 			],
 			"find":
 			{
-				"height": 24.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -580,12 +602,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					" ",
-					"\n\n    ",
-					"\n",
-					"k",
-					"check",
-					"continue"
+					"getche",
+					"\");\n",
+					"data"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -602,7 +621,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 35.0
 			},
 			"input":
 			{
@@ -615,7 +634,7 @@
 			},
 			"output.exec":
 			{
-				"height": 34.0
+				"height": 54.0
 			},
 			"output.find_results":
 			{
@@ -624,7 +643,7 @@
 			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
 			"replace":
 			{
-				"height": 44.0
+				"height": 66.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -675,6 +694,10 @@
 				"selected_items":
 				[
 					[
+						"user",
+						"username"
+					],
+					[
 						"check",
 						"checkDigit"
 					],
@@ -702,33 +725,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/E/programming practice/C++/test.c",
-					"settings":
-					{
-						"buffer_size": 175,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "\n5\n\n#\n##\n###\n####\n#####\n\n10\n\n#\n##\n###\n####\n#####\n######\n#######\n########\n#########\n##########\n\n",
-					"settings":
-					{
-						"buffer_size": 95,
-						"line_ending": "Windows",
-						"name": "test.c -run",
-						"read_only": true,
-						"scratch": true
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -930,6 +926,38 @@
 				"selected_items":
 				[
 					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
 						"fast",
 						"FastOlympicCoding: Open Settings"
 					],
@@ -944,10 +972,6 @@
 					[
 						"termna",
 						"Terminal: Open"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"rmeove",
@@ -974,10 +998,6 @@
 						"UI: Select Color Scheme"
 					],
 					[
-						"theme",
-						"UI: Select Theme"
-					],
-					[
 						"material",
 						"Material Theme: Activate theme"
 					],
@@ -994,10 +1014,6 @@
 						"LiveReload: Self test"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"ma",
 						"Material Theme: Activate theme"
 					],
@@ -1008,10 +1024,6 @@
 					[
 						"material theme",
 						"Material Theme: Configuration"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"list",
@@ -1070,9 +1082,13 @@
 			},
 			"console":
 			{
-				"height": 490.0,
+				"height": 401.0,
 				"history":
 				[
+					"exit",
+					"python",
+					"clear()",
+					"clear",
 					"exit",
 					"exit()",
 					"dir(str)",
@@ -1102,10 +1118,19 @@
 			},
 			"expanded_folders":
 			[
-				"/E/programming practice/C++"
+				"/H/Codes/Project"
 			],
 			"file_history":
 			[
+				"/H/Codes/Project/graphics.c",
+				"/H/Codes/Project/test.c",
+				"/H/Codes/Project/person.dat",
+				"/H/Codes/Project/demo.c",
+				"/H/Codes/Project/Login Form/person.dat",
+				"/H/Codes/Project/mainProject.c",
+				"/H/Codes/Project/person.txt",
+				"/H/Codes/Project/clock.c",
+				"/E/programming practice/C++/test.c",
 				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1476A.cpp",
 				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1478A.cpp",
 				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.cpp",
@@ -1224,20 +1249,11 @@
 				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/1.c",
 				"/E/Desktop/file/test.c",
 				"/D/c programin/atCoder (mdibuhossain)/abc187d.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/list7b.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/list7a.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/output7.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-07/19CSE065/4.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-07/19CSE065/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/dest.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/source.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/source2.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/source3.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/output.txt"
+				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/list7b.txt"
 			],
 			"find":
 			{
-				"height": 57.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -1251,8 +1267,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"nu",
-					"dn"
+					"\tgotoxy(9, 13);\n\tprintf(\".\");",
+					"puts(\".\");",
+					"bal",
+					"100",
+					"(\"\");\n",
+					"getche",
+					"\");\n",
+					"data"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1270,118 +1292,20 @@
 			"folders":
 			[
 				{
-					"path": "E:\\programming practice\\C++"
+					"path": "H:\\Codes\\Project"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/E/programming practice/C++/test.c",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 175,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										171,
-										171
-									]
-								],
-								"settings":
-								{
-									"open_with_edit": true,
-									"syntax": "Packages/C Improved/C Improved.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"default_dir": "E:\\programming practice\\C++",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 2,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 95,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										72,
-										72
-									]
-								],
-								"settings":
-								{
-									"default_dir": "E:\\programming practice\\C++",
-									"delete_forb": true,
-									"edit_mode": false,
-									"fold_buttons": false,
-									"line_numbers": false,
-									"syntax": "Packages/CppFastOlympicCoding/TestSyntax.tmLanguage",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 47.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -1396,18 +1320,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.68,
 					1.0
 				],
 				"rows":
@@ -1423,18 +1340,18 @@
 			},
 			"output.exec":
 			{
-				"height": 34.0
+				"height": 327.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,622,78,78,1088",
+			"position": "0,2,3,-1,-1,-1,-1,996,915,4,1925",
 			"project": "",
 			"replace":
 			{
-				"height": 90.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1471,14 +1388,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 159.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 2
 			},
-			"window_id": 104,
+			"window_id": 105,
 			"workspace_name": ""
 		}
 	],
