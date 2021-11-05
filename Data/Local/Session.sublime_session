@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/H/Codes",
+		"/H/Codes/Project - with - C/demo-project",
+		"/H/Codes/Project - with - C",
 		"/H/Watched_Movie_List",
 		"/H/Codes/Project",
 		"/E/programming practice/C++",
@@ -29,11 +32,11 @@
 		"/E/c programin/CSE_Assignment_BSMRSTU/LAB-06/19CSE065"
 	],
 	"last_version": 3211,
-	"last_window_id": 108,
+	"last_window_id": 116,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 485.0,
+		"new_window_height": 933.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -41,658 +44,73 @@
 				"selected_items":
 				[
 					[
-						"check",
-						"checkDigit"
+						"userData",
+						"userDataFile"
 					],
 					[
-						"checkd",
-						"checkDigit"
+						"swi",
+						"swish"
 					],
 					[
-						"fac",
-						"factorial"
+						"ask",
+						"askToReturnMainMenu"
 					],
 					[
-						"in",
-						"in\tC_program"
+						"use",
+						"userDataFile"
 					],
 					[
-						"pri",
-						"prime"
+						"pass",
+						"password"
 					],
 					[
-						"po",
-						"population"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-							""
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-							"Build and Run"
-						]
+						"socia",
+						"socialData"
 					],
 					[
-						"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-						"Build and Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-							""
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-							"Build and Run"
-						]
+						"userdata",
+						"userDataFile"
 					],
 					[
-						"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C Single File.sublime-build",
-							"Run"
-						]
+						"userDa",
+						"userDataFile"
 					],
 					[
-						"Packages/C++/C Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-							""
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-							"Build and Run"
-						],
-						[
-							"Packages/User/Google Chrome.sublime-build",
-							""
-						]
+						"MAZ",
+						"MAX_FILENAME_SIZE"
 					],
 					[
-						"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-						"Build and Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
+						"MAX_P",
+						"MAX_PLATFORM_SIZE"
 					],
 					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-							""
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-							"Build and Run"
-						],
-						[
-							"Packages/User/Google Chrome.sublime-build",
-							""
-						]
+						"MAX",
+						"MAX_USERNAME_SIZE"
 					],
 					[
-						"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
-						"Build and Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Competitive Programming/Test C++.sublime-build",
-							""
-						],
-						[
-							"Packages/Competitive Programming/Test C++.sublime-build",
-							"Run"
-						]
+						"data",
+						"dataPath"
 					],
 					[
-						"Packages/Competitive Programming/Test C++.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/Google Chrome.sublime-build",
-							""
-						]
+						"crate",
+						"createDir"
 					],
 					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/C++17.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++17.sublime-build",
-							"Run"
-						]
+						"social",
+						"socialData"
 					],
 					[
-						"Packages/User/C++17.sublime-build",
-						"Run"
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"remo",
-						"Package Control: Remove Package"
+						"file",
+						"fileName"
 					],
 					[
-						"theme",
-						"UI: Select Color Scheme"
+						"print",
+						"printf\tprintf …"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"i",
+						"inc\t#include \"…\""
 					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"remov",
-						"Package Control: Remove Package"
-					],
-					[
-						"isnta",
-						"Package Control: Install Package"
-					],
-					[
-						"setting",
-						"Preferences: Settings"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"fast",
-						"FastOlympicCoding: Open Settings"
-					],
-					[
-						"term",
-						"Terminal: Open"
-					],
-					[
-						"git",
-						"Set Syntax: Git Config"
-					],
-					[
-						"termna",
-						"Terminal: Open"
-					],
-					[
-						"rmeove",
-						"Package Control: Remove Package"
-					],
-					[
-						"isntall",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"mark",
-						"Markdown HTML Preview"
-					],
-					[
-						"terminus",
-						"Terminus: Open Default Shell in Tab (View)"
-					],
-					[
-						"scheme",
-						"UI: Select Color Scheme"
-					],
-					[
-						"material",
-						"Material Theme: Activate theme"
-					],
-					[
-						"livereload",
-						"Snippet: Insert livereload.js script"
-					],
-					[
-						"LiveReload: Enable/disable plugins",
-						"LiveReload: Enable/disable plug-ins"
-					],
-					[
-						"live",
-						"LiveReload: Self test"
-					],
-					[
-						"ma",
-						"Material Theme: Activate theme"
-					],
-					[
-						"a file icon",
-						"Preferences: A File Icon Settings"
-					],
-					[
-						"material theme",
-						"Material Theme: Configuration"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"rmove",
-						"Package Control: Remove Package"
-					],
-					[
-						"materialize",
-						"Activate Materialize Theme"
-					],
-					[
-						"terminusview",
-						"Terminus: Open Default Shell in Tab (View)"
-					],
-					[
-						"install package",
-						"Package Control: Install Package"
-					],
-					[
-						"ter",
-						"Terminal: Open"
-					],
-					[
-						"open",
-						"File: Open In Browser - Production Server"
-					],
-					[
-						"terminal",
-						"Terminal: Open"
-					],
-					[
-						"installa",
-						"Package Control: Install Package"
-					],
-					[
-						"packer",
-						"Package Control: List Packages"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"termi",
-						"Terminal: Open"
-					],
-					[
-						"termnal",
-						"Terminal: Open"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 401.0,
-				"history":
-				[
-					"exit",
-					"python",
-					"clear()",
-					"clear",
-					"exit",
-					"exit()",
-					"dir(str)",
-					"x",
-					"x = 2",
-					"x = a",
-					"exit",
-					"exit()",
-					"\"ibrahim\"",
-					"string",
-					"help",
-					"d",
-					"fd",
-					"sdlfkjsd;lfkj",
-					"dlfksjd",
-					"cmd"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/H/Codes/Project/test.c",
-				"/H/Codes/Project/person.txt",
-				"/H/Codes/Project/clock.c",
-				"/E/programming practice/C++/test.c",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1476A.cpp",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1478A.cpp",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.cpp",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1478B.cpp",
-				"/E/Desktop/English Presentation/pre_2.txt",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.c",
-				"/G/Seen Movie list/watched movie list.txt",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.cc",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1475A.cpp",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1475B.cc",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/output",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/input",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Competitive Programming/README.md",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Competitive Programming/Test C++.sublime-build",
-				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1475A.cc",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/C++17.sublime-build",
-				"/D/c programin/Codeforces (ibrahim_065)/output",
-				"/D/c programin/Codeforces (ibrahim_065)/input",
-				"/D/c programin/Codeforces (ibrahim_065)/test.cc",
-				"/D/c programin/alert.cpp",
-				"/D/c programin/Toph (ibrahim_065)/Goat research.cpp",
-				"/D/c programin/Codeforces (ibrahim_065)/test.c",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_.sublime-snippet",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_2.sublime-snippet",
-				"/E/Desktop/Bangabandhu.txt",
-				"/D/c programin/Codeforces (ibrahim_065)/1474A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1368B.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1364A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/630A.cc",
-				"/D/c programin/DimikOJ/Problem_12.c",
-				"/D/c programin/DimikOJ/Problem_14.c",
-				"/D/c programin/DimikOJ/Problem_16.c",
-				"/D/c programin/DimikOJ/Problem_25.c",
-				"/D/c programin/Codeforces (ibrahim_065)/630B.cc",
-				"/D/cls C++/STL/vector_3.cc",
-				"/D/HTML/website/moriom.website/index.html",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/LiveReload/LiveReload.sublime-settings",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/LiveReload.sublime-settings",
-				"/D/cls C++/STL/newfolder/test.c",
-				"/D/cls C++/STL/test.c",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/AdvancedNewFile/README.md",
-				"/D/c programin/Codeforces (ibrahim_065)/1269A.cpp",
-				"/D/c programin/Codeforces (ibrahim_065)/XXXXX(Not_finished_yet).cpp",
-				"/D/c programin/Codeforces (ibrahim_065)/Vasya_the_Hipster.c",
-				"/D/c programin/Codeforces (ibrahim_065)/Honest_coach.py",
-				"/D/c programin/Codeforces (ibrahim_065)/Hulk.c",
-				"/D/c programin/Codeforces (ibrahim_065)/1030B.cpp",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Default/Preferences.sublime-settings",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/Material Solarized Dark.sublime-theme",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/package.json",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/package-metadata.json",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/messages.json",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/19CSE065/Problem_1/1.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/19CSE065/Problem_2/2.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065.zip",
-				"/D/c programin/Codeforces (ibrahim_065)/tttt.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1473B.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1473A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1165B.cc",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/C_.sublime-snippet",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/C_program.sublime-snippet",
-				"/D/c programin/Codeforces (ibrahim_065)/output.txt",
-				"/D/c programin/Codeforces (ibrahim_065)/1471B.cc",
-				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/problem_4.c",
-				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/problem_3.c",
-				"/D/c programin/Codeforces (ibrahim_065)/test1.c",
-				"/E/Downloads/2.c",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_program.sublime-snippet",
-				"/D/c programin/Codeforces (ibrahim_065)/711B.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1467A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/151A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/9A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1196A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1234A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1472D.cc",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/seive_snippet.sublime-snippet",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_program2.sublime-snippet",
-				"/D/c programin/Codeforces (ibrahim_065)/711A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1466C.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1471A.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1472C.cc",
-				"/D/c programin/CSE_Assignment_BSMRSTU/prob_1.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-06/CSE_LAB_06/2.c",
-				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/problem_2.c",
-				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/P_2.c",
-				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/7zO450D7F98/q_1.c",
-				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/7zO499D3CA8/q_1.c",
-				"/D/c programin/Codeforces (ibrahim_065)/1472B.cc",
-				"/D/c programin/Codeforces (ibrahim_065)/1472A.cc",
-				"/D/vstest1.c",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Installed Packages/CPP Competitive Programming Snippets.sublime-package",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Installed Packages/C++ & C Single File Builder - Minghang Yang.sublime-package",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/SublimeAStyleFormatter.sublime-settings",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_8/input.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_8/8.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_4/4.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_5/5.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_6/6.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_7/7.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_3/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_2/2.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_1/1.c",
-				"/D/c programin/atCoder (mdibuhossain)/test.cc",
-				"/D/c programin/atCoder (mdibuhossain)/abc187a.cc",
-				"/D/c programin/atCoder (mdibuhossain)/abc187c.cc",
-				"/D/c programin/atCoder (mdibuhossain)/abc187d.cc",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/4.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/5.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/6.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/7.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/2.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/1.c",
-				"/E/Desktop/file/test.c",
-				"/D/c programin/atCoder (mdibuhossain)/abc187d.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/list7b.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/list7a.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/output7.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-07/19CSE065/4.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-07/19CSE065/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/dest.txt"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 616.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"getche",
-					"\");\n",
-					"data"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 35.0
-			},
-			"input":
-			{
-				"height": 218.0
-			},
-			"menu_visible": true,
-			"output.astyle_error_message":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 54.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 159.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-				"max_columns": 2
-			}
-		},
-		"new_window_width": 994.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"user",
 						"username"
@@ -723,10 +141,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -926,16 +340,80 @@
 				"selected_items":
 				[
 					[
-						"remo",
-						"Package Control: Remove Package"
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"termin",
+						"Terminal: Open"
+					],
+					[
+						"mard",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"term",
+						"Terminal: Open"
+					],
+					[
+						"car",
+						"Carbon: Share Selection"
+					],
+					[
+						"carbo",
+						"Carbon: Share Selection"
+					],
+					[
+						"carbon",
+						"Carbon: Share Selection"
 					],
 					[
 						"theme",
 						"UI: Select Color Scheme"
 					],
 					[
-						"install",
+						"isntall",
 						"Package Control: Install Package"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
 					],
 					[
 						"insta",
@@ -954,16 +432,8 @@
 						"Preferences: Settings"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"fast",
 						"FastOlympicCoding: Open Settings"
-					],
-					[
-						"term",
-						"Terminal: Open"
 					],
 					[
 						"git",
@@ -976,10 +446,6 @@
 					[
 						"rmeove",
 						"Package Control: Remove Package"
-					],
-					[
-						"isntall",
-						"Package Control: Install Package"
 					],
 					[
 						"instal",
@@ -1046,10 +512,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"ter",
-						"Terminal: Open"
-					],
-					[
 						"open",
 						"File: Open In Browser - Production Server"
 					],
@@ -1064,14 +526,6 @@
 					[
 						"packer",
 						"Package Control: List Packages"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"termi",
-						"Terminal: Open"
 					],
 					[
 						"termnal",
@@ -1116,12 +570,35 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/H/Codes/Project"
-			],
 			"file_history":
 			[
+				"/H/Codes/3b.cpp",
+				"/H/Codes/test.c",
+				"/H/Codes/Project - with - C/demo-project/demo-form.c",
+				"/H/Watched_Movie_List/watched movie list.txt",
+				"/H/Codes/Project - with - C/demo-project/data/person.bin",
+				"/H/Codes/readme.md",
+				"/D/Videos/walp/walp_player.html",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/4kgcos4n.kal/waves.html",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/0wj1biqk.f41/fluid.html",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/0wj1biqk.f41/js/dat.gui.min.js",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/0wj1biqk.f41/js/script.js",
+				"/D/Videos/LivelyInfo.json",
+				"/G/Programming Hero/Milestone_8/module 52.5/mealdb-react/README.md",
+				"/H/Codes/Project - with - C/class.cpp",
+				"/H/Codes/Project - with - C/demo-project/data/ibrahim.bin",
+				"/G/Programming Hero/Milestone_8/module 50/recruite-singer-assignment-m8/src/utilities/fakedb.js",
+				"/G/Programming Hero/Milestone_8/module 48/ema-john-simple-with-search-and-saved/src/components/Cart/Cart.js",
+				"/G/Programming Hero/Milestone_8/module 48/ema-john-simple-with-search-and-saved/src/components/Product/Product.js",
+				"/H/Codes/Project - with - C/demo-project/test.c",
+				"/G/Programming Hero/Milestone_8/module 48/ema-john-simple-with-search-and-saved/src/components/Shop/Shop.js",
+				"/H/Codes/Project - with - C/tt.cpp",
+				"/E/Portable app/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_.sublime-snippet",
+				"/E/Portable app/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_2.sublime-snippet",
+				"/H/Codes/Project - with - C/test.c",
+				"/H/Codes/Project - with - C/tt.c",
+				"/H/Codes/Project - with - C/AticleworldLibBookS.bin",
+				"/H/Codes/Project - with - C/ibrahim.txt",
 				"/H/Codes/Project/graphics.c",
 				"/H/Codes/Project/test.c",
 				"/H/Codes/Project/person.dat",
@@ -1222,38 +699,11 @@
 				"/D/c programin/Codeforces (ibrahim_065)/1472B.cc",
 				"/D/c programin/Codeforces (ibrahim_065)/1472A.cc",
 				"/D/vstest1.c",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Installed Packages/CPP Competitive Programming Snippets.sublime-package",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Installed Packages/C++ & C Single File Builder - Minghang Yang.sublime-package",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
-				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/SublimeAStyleFormatter.sublime-settings",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_8/input.txt",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_8/8.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_4/4.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_5/5.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_6/6.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_7/7.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_3/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_2/2.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/Problem_1/1.c",
-				"/D/c programin/atCoder (mdibuhossain)/test.cc",
-				"/D/c programin/atCoder (mdibuhossain)/abc187a.cc",
-				"/D/c programin/atCoder (mdibuhossain)/abc187c.cc",
-				"/D/c programin/atCoder (mdibuhossain)/abc187d.cc",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/3.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/4.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/5.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/6.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/7.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/2.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/1.c",
-				"/E/Desktop/file/test.c",
-				"/D/c programin/atCoder (mdibuhossain)/abc187d.c",
-				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/list7b.txt"
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Installed Packages/CPP Competitive Programming Snippets.sublime-package"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
@@ -1267,14 +717,827 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\tgotoxy(9, 13);\n\tprintf(\".\");",
-					"puts(\".\");",
-					"bal",
-					"100",
-					"(\"\");\n",
-					"getche",
-					"\");\n",
-					"data"
+					"mulan",
+					"Golden Boy",
+					"shohag",
+					"width",
+					"1920",
+					"canvas"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 218.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"E:\\Portable app\\Portable-Sublime-text-3.2-Build-3211\\Data\\Packages\\User\\Cpp_.sublime-snippet"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 254.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 992.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"userData",
+						"userDataFile"
+					],
+					[
+						"swi",
+						"swish"
+					],
+					[
+						"ask",
+						"askToReturnMainMenu"
+					],
+					[
+						"use",
+						"userDataFile"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"socia",
+						"socialData"
+					],
+					[
+						"userdata",
+						"userDataFile"
+					],
+					[
+						"userDa",
+						"userDataFile"
+					],
+					[
+						"MAZ",
+						"MAX_FILENAME_SIZE"
+					],
+					[
+						"MAX_P",
+						"MAX_PLATFORM_SIZE"
+					],
+					[
+						"MAX",
+						"MAX_USERNAME_SIZE"
+					],
+					[
+						"data",
+						"dataPath"
+					],
+					[
+						"crate",
+						"createDir"
+					],
+					[
+						"social",
+						"socialData"
+					],
+					[
+						"file",
+						"fileName"
+					],
+					[
+						"print",
+						"printf\tprintf …"
+					],
+					[
+						"i",
+						"inc\t#include \"…\""
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"check",
+						"checkDigit"
+					],
+					[
+						"checkd",
+						"checkDigit"
+					],
+					[
+						"fac",
+						"factorial"
+					],
+					[
+						"in",
+						"in\tC_program"
+					],
+					[
+						"pri",
+						"prime"
+					],
+					[
+						"po",
+						"population"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/H/Codes/Project - with - C/demo-project/demo-form.c",
+					"settings":
+					{
+						"buffer_size": 14669,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/H/Codes/1a.cpp",
+					"settings":
+					{
+						"buffer_size": 2036,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "\n1\n0 2\n\n9\nRuntime: 2.9730000000s\n\n1\n0 2\n\n9\nRuntime: 2.8680000000s\n\n",
+					"settings":
+					{
+						"buffer_size": 67,
+						"line_ending": "Windows",
+						"name": "1a.cpp -run",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+							"Build and Run"
+						]
+					],
+					[
+						"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+						"Build and Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+							"Build and Run"
+						]
+					],
+					[
+						"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+						"Build and Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+							"Build and Run"
+						],
+						[
+							"Packages/User/Google Chrome.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+						"Build and Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+							""
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+							"Build and Run"
+						],
+						[
+							"Packages/User/Google Chrome.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+						"Build and Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Competitive Programming/Test C++.sublime-build",
+							""
+						],
+						[
+							"Packages/Competitive Programming/Test C++.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/Competitive Programming/Test C++.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Google Chrome.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++17.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++17.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++17.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "Build and Run",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"termi",
+						"Terminal: Open"
+					],
+					[
+						"termin",
+						"Terminal: Open"
+					],
+					[
+						"mard",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"term",
+						"Terminal: Open"
+					],
+					[
+						"car",
+						"Carbon: Share Selection"
+					],
+					[
+						"carbo",
+						"Carbon: Share Selection"
+					],
+					[
+						"carbon",
+						"Carbon: Share Selection"
+					],
+					[
+						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"fast",
+						"FastOlympicCoding: Open Settings"
+					],
+					[
+						"git",
+						"Set Syntax: Git Config"
+					],
+					[
+						"termna",
+						"Terminal: Open"
+					],
+					[
+						"rmeove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Markdown HTML Preview"
+					],
+					[
+						"terminus",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"material",
+						"Material Theme: Activate theme"
+					],
+					[
+						"livereload",
+						"Snippet: Insert livereload.js script"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"live",
+						"LiveReload: Self test"
+					],
+					[
+						"ma",
+						"Material Theme: Activate theme"
+					],
+					[
+						"a file icon",
+						"Preferences: A File Icon Settings"
+					],
+					[
+						"material theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"rmove",
+						"Package Control: Remove Package"
+					],
+					[
+						"materialize",
+						"Activate Materialize Theme"
+					],
+					[
+						"terminusview",
+						"Terminus: Open Default Shell in Tab (View)"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"terminal",
+						"Terminal: Open"
+					],
+					[
+						"installa",
+						"Package Control: Install Package"
+					],
+					[
+						"packer",
+						"Package Control: List Packages"
+					],
+					[
+						"termnal",
+						"Terminal: Open"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 401.0,
+				"history":
+				[
+					"exit",
+					"python",
+					"clear()",
+					"clear",
+					"exit",
+					"exit()",
+					"dir(str)",
+					"x",
+					"x = 2",
+					"x = a",
+					"exit",
+					"exit()",
+					"\"ibrahim\"",
+					"string",
+					"help",
+					"d",
+					"fd",
+					"sdlfkjsd;lfkj",
+					"dlfksjd",
+					"cmd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/H/Codes",
+				"/H/Codes/Project - with - C",
+				"/H/Codes/Project - with - C/demo-project",
+				"/H/Codes/Project - with - C/demo-project/data",
+				"/H/Codes/Project - with - C/Login Form"
+			],
+			"file_history":
+			[
+				"/H/Codes/3b.cpp",
+				"/H/Codes/test.c",
+				"/H/Codes/Project - with - C/demo-project/demo-form.c",
+				"/H/Watched_Movie_List/watched movie list.txt",
+				"/H/Codes/Project - with - C/demo-project/data/person.bin",
+				"/H/Codes/readme.md",
+				"/D/Videos/walp/walp_player.html",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/4kgcos4n.kal/waves.html",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/0wj1biqk.f41/fluid.html",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/0wj1biqk.f41/js/dat.gui.min.js",
+				"/C/Users/Ibrahim/AppData/Local/Lively Wallpaper/Library/wallpapers/0wj1biqk.f41/js/script.js",
+				"/D/Videos/LivelyInfo.json",
+				"/G/Programming Hero/Milestone_8/module 52.5/mealdb-react/README.md",
+				"/H/Codes/Project - with - C/class.cpp",
+				"/H/Codes/Project - with - C/demo-project/data/ibrahim.bin",
+				"/G/Programming Hero/Milestone_8/module 50/recruite-singer-assignment-m8/src/utilities/fakedb.js",
+				"/G/Programming Hero/Milestone_8/module 48/ema-john-simple-with-search-and-saved/src/components/Cart/Cart.js",
+				"/G/Programming Hero/Milestone_8/module 48/ema-john-simple-with-search-and-saved/src/components/Product/Product.js",
+				"/H/Codes/Project - with - C/demo-project/test.c",
+				"/G/Programming Hero/Milestone_8/module 48/ema-john-simple-with-search-and-saved/src/components/Shop/Shop.js",
+				"/H/Codes/Project - with - C/tt.cpp",
+				"/E/Portable app/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_.sublime-snippet",
+				"/E/Portable app/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_2.sublime-snippet",
+				"/H/Codes/Project - with - C/test.c",
+				"/H/Codes/Project - with - C/tt.c",
+				"/H/Codes/Project - with - C/AticleworldLibBookS.bin",
+				"/H/Codes/Project - with - C/ibrahim.txt",
+				"/H/Codes/Project/graphics.c",
+				"/H/Codes/Project/test.c",
+				"/H/Codes/Project/person.dat",
+				"/H/Codes/Project/demo.c",
+				"/H/Codes/Project/Login Form/person.dat",
+				"/H/Codes/Project/mainProject.c",
+				"/H/Codes/Project/person.txt",
+				"/H/Codes/Project/clock.c",
+				"/E/programming practice/C++/test.c",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1476A.cpp",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1478A.cpp",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.cpp",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1478B.cpp",
+				"/E/Desktop/English Presentation/pre_2.txt",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.c",
+				"/G/Seen Movie list/watched movie list.txt",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/test.cc",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1475A.cpp",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1475B.cc",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/output",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/input",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Competitive Programming/README.md",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Competitive Programming/Test C++.sublime-build",
+				"/D/Online Judge Problems/Codeforces (ibrahim_065)/1475A.cc",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/C++17.sublime-build",
+				"/D/c programin/Codeforces (ibrahim_065)/output",
+				"/D/c programin/Codeforces (ibrahim_065)/input",
+				"/D/c programin/Codeforces (ibrahim_065)/test.cc",
+				"/D/c programin/alert.cpp",
+				"/D/c programin/Toph (ibrahim_065)/Goat research.cpp",
+				"/D/c programin/Codeforces (ibrahim_065)/test.c",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_.sublime-snippet",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_2.sublime-snippet",
+				"/E/Desktop/Bangabandhu.txt",
+				"/D/c programin/Codeforces (ibrahim_065)/1474A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1368B.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1364A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/630A.cc",
+				"/D/c programin/DimikOJ/Problem_12.c",
+				"/D/c programin/DimikOJ/Problem_14.c",
+				"/D/c programin/DimikOJ/Problem_16.c",
+				"/D/c programin/DimikOJ/Problem_25.c",
+				"/D/c programin/Codeforces (ibrahim_065)/630B.cc",
+				"/D/cls C++/STL/vector_3.cc",
+				"/D/HTML/website/moriom.website/index.html",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/LiveReload.sublime-settings",
+				"/D/cls C++/STL/newfolder/test.c",
+				"/D/cls C++/STL/test.c",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/AdvancedNewFile/README.md",
+				"/D/c programin/Codeforces (ibrahim_065)/1269A.cpp",
+				"/D/c programin/Codeforces (ibrahim_065)/XXXXX(Not_finished_yet).cpp",
+				"/D/c programin/Codeforces (ibrahim_065)/Vasya_the_Hipster.c",
+				"/D/c programin/Codeforces (ibrahim_065)/Honest_coach.py",
+				"/D/c programin/Codeforces (ibrahim_065)/Hulk.c",
+				"/D/c programin/Codeforces (ibrahim_065)/1030B.cpp",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/Material Solarized Dark.sublime-theme",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/package.json",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/package-metadata.json",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/Materialize-Appbar/messages.json",
+				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/19CSE065/Problem_1/1.c",
+				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065/19CSE065/Problem_2/2.c",
+				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-08/19CSE065.zip",
+				"/D/c programin/Codeforces (ibrahim_065)/tttt.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1473B.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1473A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1165B.cc",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/C_.sublime-snippet",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/C_program.sublime-snippet",
+				"/D/c programin/Codeforces (ibrahim_065)/output.txt",
+				"/D/c programin/Codeforces (ibrahim_065)/1471B.cc",
+				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/problem_4.c",
+				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/problem_3.c",
+				"/D/c programin/Codeforces (ibrahim_065)/test1.c",
+				"/E/Downloads/2.c",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_program.sublime-snippet",
+				"/D/c programin/Codeforces (ibrahim_065)/711B.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1467A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/151A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/9A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1196A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1234A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1472D.cc",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/seive_snippet.sublime-snippet",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Packages/User/Cpp_program2.sublime-snippet",
+				"/D/c programin/Codeforces (ibrahim_065)/711A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1466C.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1471A.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1472C.cc",
+				"/D/c programin/CSE_Assignment_BSMRSTU/prob_1.c",
+				"/D/c programin/CSE_Assignment_BSMRSTU/LAB-06/CSE_LAB_06/2.c",
+				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/problem_2.c",
+				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/Temp1_19CSE065.zip/19CSE065/P_2.c",
+				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/7zO450D7F98/q_1.c",
+				"/C/Users/Ibrahim Hossain/AppData/Local/Temp/7zO499D3CA8/q_1.c",
+				"/D/c programin/Codeforces (ibrahim_065)/1472B.cc",
+				"/D/c programin/Codeforces (ibrahim_065)/1472A.cc",
+				"/D/vstest1.c",
+				"/C/Portable-Sublime-text-3.2-Build-3211/Data/Installed Packages/CPP Competitive Programming Snippets.sublime-package"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 616.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"b + 1",
+					"(b / 2) & 1",
+					".0",
+					"mulan",
+					"Golden Boy",
+					"shohag",
+					"width",
+					"1920",
+					"canvas"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1292,20 +1555,120 @@
 			"folders":
 			[
 				{
-					"path": "H:\\Codes\\Project"
+					"path": "H:\\Codes"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/H/Codes/Project - with - C/demo-project/demo-form.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14669,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										202,
+										202
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C Improved/C Improved.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/H/Codes/1a.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2036,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1714,
+										1714
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1050.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 67,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										67,
+										67
+									]
+								],
+								"settings":
+								{
+									"default_dir": "H:\\Codes",
+									"delete_forb": true,
+									"edit_mode": false,
+									"fold_buttons": false,
+									"line_numbers": false,
+									"syntax": "Packages/CppFastOlympicCoding/TestSyntax.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1320,11 +1683,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.701169354839,
 					1.0
 				],
 				"rows":
@@ -1340,18 +1710,18 @@
 			},
 			"output.exec":
 			{
-				"height": 327.0
+				"height": 186.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,996,915,4,1925",
+			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,1018,876,26,1884",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1360,6 +1730,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"E:\\Portable app\\Portable-Sublime-text-3.2-Build-3211\\Data\\Packages\\User\\Cpp_.sublime-snippet"
+					]
 				],
 				"width": 0.0
 			},
@@ -1388,14 +1762,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 159.0,
+			"side_bar_visible": false,
+			"side_bar_width": 254.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 2
 			},
-			"window_id": 105,
+			"window_id": 114,
 			"workspace_name": ""
 		}
 	],

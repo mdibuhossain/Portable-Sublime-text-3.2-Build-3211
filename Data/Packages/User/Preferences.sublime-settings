@@ -8,7 +8,7 @@
 	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
 	"drag_text": false,
 	"font_face": "Cascadia Code",
-	"font_size": 10,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
